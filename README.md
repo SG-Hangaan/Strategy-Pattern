@@ -10,16 +10,19 @@ The problem scenario involves three character types, each with specific attack a
 2. Wizard: Casts spells and uses magic barrier for defense.
 3. Archer: Shoots arrows and uses dodge for defense.
 
-Implement two types of Strategy:
-A.  DefenseStrategy
-     1. Shield
-     2. Dodge
-     3. CreateMagic
+Implement two types of Strategy: <br>
+```
+	A.  DefenseStrategy 
+	     1. Shield 
+	     2. Dodge 
+	     3. CreateMagic  
 
-B.  AttackStrategy
-     1.  CastSpell
-     2.  ShootArrow
-     3.  SwingSword  
+	B.  AttackStrategy 
+	     1.  CastSpell 
+	     2.  ShootArrow 
+	     3.  SwingSword   
+```
+	
 
 # Refactor the existing codes and provide the UML Diagram:
 ```
