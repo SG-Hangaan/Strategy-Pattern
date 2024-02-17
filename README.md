@@ -60,6 +60,14 @@ public class Character {
 
 # Implementation of Strategy Pattern
 
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/Strategy-Pattern/assets/127215110/e853c50b-05fe-47aa-b9ed-e44bb4c8e7db"/>
+</p>
+
 
 #  UML Class Diagram
+
+<p align="center">
+  <img src=""/>
+</p>
 
